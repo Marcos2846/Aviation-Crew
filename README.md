@@ -13,6 +13,16 @@ Como desarrollador con experiencia previa en C# y .NET, este reto personal me ha
 - **Filtrado Inteligente**: Capacidad de organizar y visualizar vuelos por piloto.
 - **Interfaz Adaptativa**: Diseño optimizado para iPhone, iPad y macOS.
 
+## 📱 Visuales de la Aplicación
+
+<div align="center">
+  <img src="screenshots/screenshot2.png" width="400" alt="Vista Principal - Listado de Pilotos">
+  <img src="screenshots/screenshot4.png" width="400" alt="Vista Detallada - Aviation Crew">
+  <br>
+  <img src="screenshots/screenshot1.png" width="400" alt="Formulario - Nuevo Vuelo">
+  <img src="screenshots/screenshot3.png" width="400" alt="Formulario - Editar Vuelo">
+</div>
+
 ## 🛠️ Stack Tecnológico y Arquitectura
 
 ### 💾 Persistencia de Datos
